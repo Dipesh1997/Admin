@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--
+                Add menu items here
+                Menu items with icon and Title
+        -->
+        <item
+            android:id="@+id/payment"
+            android:title="PayMent Stage"
+            android:icon="@drawable/ic_launcher"/>
+
+        <item
+            android:id="@+id/canceled"
+            android:title="Canceled" />
+        <item
+            android:id="@+id/confirmed"
+            android:title="Confirmed"/>
+
+        <item
+            android:id="@+id/completed"
+            android:title="Completed" />
+    </group>
+
+</menu>

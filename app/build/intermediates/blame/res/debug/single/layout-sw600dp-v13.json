@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "G:\\Admin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]

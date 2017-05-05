@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "G:\\Admin\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_items.xml",
+        "source": "C:\\Users\\DIPESH\\Desktop\\Admin\\app\\src\\main\\res\\menu\\nav_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_items.xml",
+        "source": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\src\\main\\res\\menu\\nav_items.xml"
+    },
+    {
+        "merged": "G:\\Admin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_items.xml",
+        "source": "G:\\Admin\\app\\src\\main\\res\\menu\\nav_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\DIPESH\\Downloads\\AndroidFirebaseDbRealtime-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.edmt.firebasedemo.ViewCategory"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/list_data"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".9"></ListView>
+
+    <ProgressBar
+        android:id="@+id/circular_progress"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:theme="@style/CircularProgress"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight=".1">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirm"
+            android:layout_weight=".1"
+            android:id="@+id/confirmbtn"
+            android:background="#ff9411"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+    </TableRow>
+
+
+
+</LinearLayout>
